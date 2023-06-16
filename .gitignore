@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Local Chroma db
+.chroma/
+db/
+
 # C extensions
 *.so
 
